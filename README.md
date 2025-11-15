@@ -75,10 +75,3 @@ Top-performing categories include:
 
 ---
 
-## 📂 Project Structure
-📁 Blinkit-PowerBI-Dashboard
-│── Blinkit_Dashboard.pbix
-│── dashboard.png
-│── README.md
-└── data/
-└── dataset.csv 
