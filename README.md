@@ -38,7 +38,7 @@ The dashboard is interactive, allowing users to filter by:
 
 Below is a screenshot of the final Power BI dashboard:
 
-> ![Blinkit Dashboard](./dashboard.png)
+> ![Blinkit Dashboard](./blinkitdashboard.png)
 
 *(Replace with your actual screenshot filename. Upload the image to the repo and update the name.)*
 
